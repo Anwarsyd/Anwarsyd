@@ -1,3 +1,7 @@
+# 👋 Hi, I'm Anwar
+
+## Software Engineer | Python | Django | Web Applications
+
 # 💫 About Me:
 Currently working on<br>Full stack web applications with a primary focus on backend development using Python and Django.<br><br>Looking to collaborate on<br>Django-based systems and web applications involving both backend and frontend components.<br><br>Currently learning<br>Advanced Django, REST API design, and frontend best practices.<br><br>Ask me about<br>Python, Django, backend development, and web application workflows.<br>
 
